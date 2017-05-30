@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="title_activity_top_section_frag">TopSectionFrag</string>
+    <string name="title_activity_bottom_section_fragement">BottomSectionFragement</string>
+</resources>
